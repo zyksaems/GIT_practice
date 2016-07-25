@@ -12,12 +12,8 @@ public class App
         
         System.out.println("This is data in child branch ");
 
-        System.out.println("for conflict ");
-        
-        
-        // this is extra comment in branch
+        System.out.println("for conflict ");  
 
     }
     
-    // just normal commit  into branch
 }
