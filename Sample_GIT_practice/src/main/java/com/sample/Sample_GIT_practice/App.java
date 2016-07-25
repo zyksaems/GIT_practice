@@ -10,5 +10,7 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("branch is deleted   second time (remote tracking)");
+        
+        //for conflict
     }
 }
