@@ -15,12 +15,6 @@ public class App
         System.out.println("for conflict ");
 
     }
-
-    public String CherryMethod(){
-    	
-    	return "this is cheryy pick method";
-    	
-    }
     
     // just normal commit  into branch
 }
