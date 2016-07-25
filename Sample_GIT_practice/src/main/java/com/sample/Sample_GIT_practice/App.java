@@ -10,5 +10,8 @@ public class App
         System.out.println("branch is deleted   second time (remote tracking)");
         
         System.out.println("for conflict ");
+
+        //for conflict
+
     }
 }
