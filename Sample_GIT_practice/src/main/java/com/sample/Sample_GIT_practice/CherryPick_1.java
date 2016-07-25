@@ -5,12 +5,6 @@ public class CherryPick_1 {
 	// calss for cherry pick test - 1
 	
 	
-	public void getIndex(){
-		
-		// it returns nothing.
-	}
-	
-	
 	public voif getIndex(){
 		
 		// it returns nothing.
