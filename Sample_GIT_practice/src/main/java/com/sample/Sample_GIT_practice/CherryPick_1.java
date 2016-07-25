@@ -9,5 +9,11 @@ public class CherryPick_1 {
 		
 		// it returns nothing.
 	}
+	
+	
+	public voif getIndex(){
+		
+		// it returns nothing.
+	}
 
 }
