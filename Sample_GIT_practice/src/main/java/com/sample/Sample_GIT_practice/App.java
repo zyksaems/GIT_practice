@@ -29,4 +29,8 @@ public class App
 
     }
     
+    public void main(int ff1){
+    	
+    }
+    
 }
