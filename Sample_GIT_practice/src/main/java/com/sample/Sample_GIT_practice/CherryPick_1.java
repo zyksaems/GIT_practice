@@ -7,9 +7,6 @@ public class CherryPick_1 {
 	
 
 	public void getIndex(){
-
-	public voif getIndex(){
-
 		
 		// it returns nothing.
 	}
